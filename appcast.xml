@@ -3,6 +3,27 @@
     <channel>
         <title>Xylect</title>
         <item>
+            <title>1.13.4</title>
+            <pubDate>Fri, 13 Dec 2024 00:41:42 -0800</pubDate>
+            <sparkle:version>1.13.4</sparkle:version>
+            <sparkle:shortVersionString>1.13.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.13.4/Clicknow-1.13.4.dmg" length="6154019" type="application/octet-stream" sparkle:edSignature="QXYZFxMG3MyyVE6hg9dFlhoIRWo/atzIp78YaX8z53U3ugpGD7ry8itWphDGpBTNx7hXADa4Bi7FAGba7UGgDw=="/>
+            <description><![CDATA[
+              <h3>New Features</h3>
+              <ul>
+              <li><a href="https://clicknow.ai/blog/new-spell-checker">A brand new spell checker</a></li>
+              </ul>
+              
+              <h3>Bug Fixes & Cleanups</h3>
+              <ul>
+              <li>Fixed various stability issues</li>
+              <li>Removed calculator</li>
+              <li>No longer mute system alert sound</li>
+              </ul>
+            ]]></description>
+        </item>
+        <item>
             <title>1.13.3</title>
             <pubDate>Thu, 05 Dec 2024 22:26:16 -0800</pubDate>
             <sparkle:version>1.13.3</sparkle:version>
@@ -33,14 +54,6 @@
             <sparkle:shortVersionString>1.13</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/laike9m/Xylect/releases/download/1.13/Clicknow-1.13.dmg" length="6765523" type="application/octet-stream" sparkle:edSignature="DESJMAVXi12HcCGrtI9iqoghoEaK17SrGtjyIVkfws3AzI3n5BnVVGZP43hTea+wpl7vr+SUA8jHxLaDYOSpDQ=="/>
-        </item>
-        <item>
-            <title>1.12.3</title>
-            <pubDate>Wed, 27 Nov 2024 23:35:50 -0800</pubDate>
-            <sparkle:version>1.12.3</sparkle:version>
-            <sparkle:shortVersionString>1.12.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/laike9m/Xylect/releases/download/1.12.3/Clicknow-1.12.3.dmg" length="6764145" type="application/octet-stream" sparkle:edSignature="sucrp8sUoOwh/KZUmJglGRVOclFjxdf21VD6u0vjthRcv3fzBSrF3UT/UYHCsyNwewvY0BtaEeFIDGHPKr5ODQ=="/>
         </item>
     </channel>
 </rss>
