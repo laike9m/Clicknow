@@ -3,6 +3,17 @@
     <channel>
         <title>Xylect</title>
         <item>
+            <title>1.13.9</title>
+            <pubDate>Mon, 13 Jan 2025 23:16:50 -0800</pubDate>
+            <sparkle:version>1.13.9</sparkle:version>
+            <sparkle:shortVersionString>1.13.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.13.9/Clicknow-1.13.9.dmg" length="6164625" type="application/octet-stream" sparkle:edSignature="i8GiydwxKIZGHXAOo/EsFevob6km//XuztKdpw7Ef51TqxqmckE5ApEMyiHLDt271+fhp95xlIMc9vi83H1KCg=="/>
+            <description><![CDATA[
+              Small fix
+            ]]></description>
+        </item>
+        <item>
             <title>1.13.8</title>
             <pubDate>Mon, 13 Jan 2025 22:39:26 -0800</pubDate>
             <sparkle:version>1.13.8</sparkle:version>
@@ -70,27 +81,6 @@
               <ul>
               <li>Dictionary sometimes shows examples in the wrong language.</li>
               <li>Spell checker is not usable when keyboard shortcut is set.</li>
-              </ul>
-            ]]></description>
-        </item>
-        <item>
-            <title>1.13.4</title>
-            <pubDate>Fri, 13 Dec 2024 00:41:42 -0800</pubDate>
-            <sparkle:version>1.13.4</sparkle:version>
-            <sparkle:shortVersionString>1.13.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.13.4/Clicknow-1.13.4.dmg" length="6154019" type="application/octet-stream" sparkle:edSignature="QXYZFxMG3MyyVE6hg9dFlhoIRWo/atzIp78YaX8z53U3ugpGD7ry8itWphDGpBTNx7hXADa4Bi7FAGba7UGgDw=="/>
-            <description><![CDATA[
-              <h3>New Features</h3>
-              <ul>
-              <li><a href="https://clicknow.ai/blog/new-spell-checker">A brand new spell checker</a></li>
-              </ul>
-              
-              <h3>Bug Fixes & Cleanups</h3>
-              <ul>
-              <li>Fixed various stability issues</li>
-              <li>Removed calculator</li>
-              <li>No longer mute system alert sound</li>
               </ul>
             ]]></description>
         </item>
