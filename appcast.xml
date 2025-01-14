@@ -3,6 +3,20 @@
     <channel>
         <title>Xylect</title>
         <item>
+            <title>1.13.8</title>
+            <pubDate>Mon, 13 Jan 2025 22:39:26 -0800</pubDate>
+            <sparkle:version>1.13.8</sparkle:version>
+            <sparkle:shortVersionString>1.13.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.13.8/Clicknow-1.13.8.dmg" length="6165101" type="application/octet-stream" sparkle:edSignature="g6/lgjwO3Oj8Z3XvE3+uo2aJc69tSR2izY11RoRokH9XAqYw16Soc63A1eIhu2w8ZliL7iMU1W1j0NJDDH97Dw=="/>
+            <description><![CDATA[
+              <ul>
+              <li>Bug fixes</li>
+              <li>Improved prompts for translating to English</li>
+              </ul>
+            ]]></description>
+        </item>
+        <item>
             <title>1.13.7</title>
             <pubDate>Sun, 22 Dec 2024 00:14:56 -0800</pubDate>
             <sparkle:version>1.13.7</sparkle:version>
@@ -79,14 +93,6 @@
               <li>No longer mute system alert sound</li>
               </ul>
             ]]></description>
-        </item>
-        <item>
-            <title>1.13.3</title>
-            <pubDate>Thu, 05 Dec 2024 22:26:16 -0800</pubDate>
-            <sparkle:version>1.13.3</sparkle:version>
-            <sparkle:shortVersionString>1.13.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.13.3/Clicknow-1.13.3.dmg" length="6730274" type="application/octet-stream" sparkle:edSignature="L7c3yvuYfbBLXyXQqACSK18xFMXxhHq1vzF/UInYJE+IgYH0O4sTlj8oTR4BrI00QuMCbbymDpcrn9B8b4ZBBg=="/>
         </item>
     </channel>
 </rss>
