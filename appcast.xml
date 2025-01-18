@@ -3,6 +3,27 @@
     <channel>
         <title>Xylect</title>
         <item>
+            <title>1.13.10</title>
+            <pubDate>Fri, 17 Jan 2025 23:43:06 -0800</pubDate>
+            <sparkle:version>1.13.10</sparkle:version>
+            <sparkle:shortVersionString>1.13.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.13.10/Clicknow-1.13.10.dmg" length="6168244" type="application/octet-stream" sparkle:edSignature="HRheXQeDelCG85JAdJBOW619sDQ++9e1CBr9EhI3gr4OAAkncC3wvoqQ/pPs/MYJGzYmywfMLz1hAcP/X12bCA=="/>
+            <description><![CDATA[
+              <h2>Improvements</h2>
+              <ul>
+              <li>You can now select and copy text from the popup, with a few limitations:
+              <ul>
+              <li>You need to use cmd+c to copy;</li>
+              <li>You may not be able to select text across multiple sections.</li>
+              </ul>
+              </li>
+              <li>Scrolling the touchpad will now make the popup disappear.</li>
+              <li>Improved traditional Chinese translation on the UI.</li>
+              </ul>
+            ]]></description>
+        </item>
+        <item>
             <title>1.13.9</title>
             <pubDate>Mon, 13 Jan 2025 23:16:50 -0800</pubDate>
             <sparkle:version>1.13.9</sparkle:version>
@@ -60,27 +81,6 @@
               <h3>Fixed Bugs</h3>
               <ul>
               <li>Fixed the bug that Clicknow doesn't work in Google docs.</li>
-              </ul>
-            ]]></description>
-        </item>
-        <item>
-            <title>1.13.5</title>
-            <pubDate>Sun, 15 Dec 2024 23:00:00 -0800</pubDate>
-            <sparkle:version>1.13.5</sparkle:version>
-            <sparkle:shortVersionString>1.13.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.13.5/Clicknow-1.13.5.dmg" length="6155274" type="application/octet-stream" sparkle:edSignature="nbVEVZBb6J61BL9W2wDUaIJM6lF471qDNBclKnu9DP48yNdHRGeLU2/zcixyZlPNoqw+5+mfWxpFhbg9vdG+DA=="/>
-            <description><![CDATA[
-              <h3>Improvements</h3>
-              <ul>
-              <li>Settings window is now placed in the center of the screen.</li>
-              <li>You can now use spell checker in your browser's address bar.</li>
-              </ul>
-              
-              <h3>Fixed Bugs</h3>
-              <ul>
-              <li>Dictionary sometimes shows examples in the wrong language.</li>
-              <li>Spell checker is not usable when keyboard shortcut is set.</li>
               </ul>
             ]]></description>
         </item>
