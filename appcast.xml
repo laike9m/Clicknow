@@ -3,6 +3,21 @@
     <channel>
         <title>Xylect</title>
         <item>
+            <title>1.13.11</title>
+            <pubDate>Sun, 19 Jan 2025 01:31:05 -0800</pubDate>
+            <sparkle:version>1.13.11</sparkle:version>
+            <sparkle:shortVersionString>1.13.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.13.11/Clicknow-1.13.11.dmg" length="6170498" type="application/octet-stream" sparkle:edSignature="dgQjiv/wx4HMw7ejdPy9wUHsgAegk0JXSWWeWihhrSuik5mvTYnySXeAi/xM2l3W3hUdOUseucTNroHD/b/jBw=="/>
+            <description><![CDATA[
+              <h3>Improvements</h3>
+              <ul>
+              <li>Add German (Deutsch) support.</li>
+              <li>Add text-to-speech for selected text.</li>
+              </ul>
+            ]]></description>
+        </item>
+        <item>
             <title>1.13.10</title>
             <pubDate>Fri, 17 Jan 2025 23:43:06 -0800</pubDate>
             <sparkle:version>1.13.10</sparkle:version>
@@ -60,27 +75,6 @@
               <ul>
               <li>Added a "Google Search" button 🌐 in the popup.</li>
               <li>Made popup wider for dictionary output.</li>
-              </ul>
-            ]]></description>
-        </item>
-        <item>
-            <title>1.13.6</title>
-            <pubDate>Fri, 20 Dec 2024 20:58:05 -0800</pubDate>
-            <sparkle:version>1.13.6</sparkle:version>
-            <sparkle:shortVersionString>1.13.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.13.6/Clicknow-1.13.6.dmg" length="6156854" type="application/octet-stream" sparkle:edSignature="VumOfyRstUeqXJUNQQFaX6pmihtJXtfZAKy8NoM51+t5+3kySNmrRj7JF+iUn6A39SNXTHItRPo6UqLGt5c9Dg=="/>
-            <description><![CDATA[
-              <h3>Improvements</h3>
-              <ul>
-              <li>Improved performance for certain operations.</li>
-              <li>Improved formatting for dictionary's output.</li>
-              <li>Improved compatibility with Logseq.</li>
-              </ul>
-              
-              <h3>Fixed Bugs</h3>
-              <ul>
-              <li>Fixed the bug that Clicknow doesn't work in Google docs.</li>
               </ul>
             ]]></description>
         </item>
