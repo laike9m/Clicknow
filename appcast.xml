@@ -3,6 +3,17 @@
     <channel>
         <title>Xylect</title>
         <item>
+            <title>1.13.12</title>
+            <pubDate>Sun, 19 Jan 2025 01:55:35 -0800</pubDate>
+            <sparkle:version>1.13.12</sparkle:version>
+            <sparkle:shortVersionString>1.13.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.13.12/Clicknow-1.13.12.dmg" length="6170234" type="application/octet-stream" sparkle:edSignature="5qv1g5yClsmGhtbU80UjaCVKXTQnh4xzU/ryRlo4bMtr2lf6/FSfss42qLa+bLsJ8nY69WrVth1GfvBDJkSAAg=="/>
+            <description><![CDATA[
+              <h3>Fixed a bug in tts that can lead to crash</h3>
+            ]]></description>
+        </item>
+        <item>
             <title>1.13.11</title>
             <pubDate>Sun, 19 Jan 2025 01:31:05 -0800</pubDate>
             <sparkle:version>1.13.11</sparkle:version>
@@ -60,21 +71,6 @@
               <ul>
               <li>Bug fixes</li>
               <li>Improved prompts for translating to English</li>
-              </ul>
-            ]]></description>
-        </item>
-        <item>
-            <title>1.13.7</title>
-            <pubDate>Sun, 22 Dec 2024 00:14:56 -0800</pubDate>
-            <sparkle:version>1.13.7</sparkle:version>
-            <sparkle:shortVersionString>1.13.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.13.7/Clicknow-1.13.7.dmg" length="6159730" type="application/octet-stream" sparkle:edSignature="akOW+lMsE1PFn7scn1AWjgAzD1aCrXjsPeJAN26lbXH3vSnfNxGgf5Xtboggk8EQe3dvx4fyIJYcbp4cSenCBQ=="/>
-            <description><![CDATA[
-              <h3>Improvements</h3>
-              <ul>
-              <li>Added a "Google Search" button 🌐 in the popup.</li>
-              <li>Made popup wider for dictionary output.</li>
               </ul>
             ]]></description>
         </item>
