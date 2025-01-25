@@ -3,6 +3,27 @@
     <channel>
         <title>Xylect</title>
         <item>
+            <title>1.13.13</title>
+            <pubDate>Sat, 25 Jan 2025 00:18:34 -0800</pubDate>
+            <sparkle:version>1.13.13</sparkle:version>
+            <sparkle:shortVersionString>1.13.13</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.13.13/Clicknow-1.13.13.dmg" length="6172468" type="application/octet-stream" sparkle:edSignature="wiYuLOgUvEUOq2sRnrxjSrJ3iUD6+TzI/P9+u59GviH7UiqiiicBgTAPnFQAO4EgWoR3ZjV5WB6MrYU3Di+MAw=="/>
+            <description><![CDATA[
+              <h2>IMPORTANT: This is the last version with macOS 12 support. Starting next version, Clicknow requires macOS 13+</h2>
+              <h3>Improvements</h3>
+              <ul>
+              <li>Improved prompts</li>
+              <li>Clicknow will not be activated in Chrome's bookmark manager</li>
+              </ul>
+              <h3>Bug fixes</h3>
+              <ul>
+              <li>Fixed app not activation bug in Anki.</li>
+              <li>Fixed a bug which can lead to incorrect explanation.</li>
+              </ul>
+            ]]></description>
+        </item>
+        <item>
             <title>1.13.12</title>
             <pubDate>Sun, 19 Jan 2025 01:55:35 -0800</pubDate>
             <sparkle:version>1.13.12</sparkle:version>
@@ -58,20 +79,6 @@
             <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.13.9/Clicknow-1.13.9.dmg" length="6164625" type="application/octet-stream" sparkle:edSignature="i8GiydwxKIZGHXAOo/EsFevob6km//XuztKdpw7Ef51TqxqmckE5ApEMyiHLDt271+fhp95xlIMc9vi83H1KCg=="/>
             <description><![CDATA[
               Small fix
-            ]]></description>
-        </item>
-        <item>
-            <title>1.13.8</title>
-            <pubDate>Mon, 13 Jan 2025 22:39:26 -0800</pubDate>
-            <sparkle:version>1.13.8</sparkle:version>
-            <sparkle:shortVersionString>1.13.8</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.13.8/Clicknow-1.13.8.dmg" length="6165101" type="application/octet-stream" sparkle:edSignature="g6/lgjwO3Oj8Z3XvE3+uo2aJc69tSR2izY11RoRokH9XAqYw16Soc63A1eIhu2w8ZliL7iMU1W1j0NJDDH97Dw=="/>
-            <description><![CDATA[
-              <ul>
-              <li>Bug fixes</li>
-              <li>Improved prompts for translating to English</li>
-              </ul>
             ]]></description>
         </item>
     </channel>
