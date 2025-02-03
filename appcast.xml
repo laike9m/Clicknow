@@ -3,6 +3,26 @@
     <channel>
         <title>Xylect</title>
         <item>
+            <title>1.14.1</title>
+            <pubDate>Sun, 02 Feb 2025 19:41:17 -0800</pubDate>
+            <sparkle:version>1.14.1</sparkle:version>
+            <sparkle:shortVersionString>1.14.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.14.1/Clicknow-1.14.1.dmg" length="7092883" type="application/octet-stream" sparkle:edSignature="mpIk7Lexf/tncMeYeNf839S2JbcT8b5ZFIHoAFGFGgac44iNUF6BfAs5eJkcVMs0BouCYebR7IY+EfmX+3fcCQ=="/>
+            <description><![CDATA[
+              <h2>IMPORTANT: This is the last version with macOS 12 support. Starting next version, Clicknow requires macOS 13+</h2>
+              <h3>Improvements</h3>
+              <ul>
+              <li>Support Arabic as output language.</li>
+              <li>Improved compatibility with PopClip.</li>
+              </ul>
+              <h3>Bug fixes</h3>
+              <ul>
+              <li>Don't show search/translate popup for misspelled word.
+              </ul>
+            ]]></description>
+        </item>
+        <item>
             <title>1.14</title>
             <pubDate>Fri, 31 Jan 2025 00:11:21 -0800</pubDate>
             <sparkle:version>1.14</sparkle:version>
