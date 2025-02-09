@@ -3,6 +3,20 @@
     <channel>
         <title>Xylect</title>
         <item>
+            <title>1.14.5</title>
+            <pubDate>Sun, 09 Feb 2025 12:10:51 -0800</pubDate>
+            <sparkle:version>1.14.5</sparkle:version>
+            <sparkle:shortVersionString>1.14.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.14.5/Clicknow-1.14.5.dmg" length="7112000" type="application/octet-stream" sparkle:edSignature="jLcNCaokp2uh/YdR3weasGsnpfwft4ow7xbGrgTxRYDI1tO6su2o1MWxQ8rfUBQQrxq/JB5aIaedWGwtLKlkBw=="/>
+            <description><![CDATA[
+              <ul>
+              <li>Support RTL(Right-to-Left) rendering for Arabic.</li>
+              <li>Imporved the output format of dictionary.</li>
+              </ul>
+            ]]></description>
+        </item>
+        <item>
             <title>1.14.4</title>
             <pubDate>Thu, 06 Feb 2025 18:12:41 -0800</pubDate>
             <sparkle:version>1.14.4</sparkle:version>
@@ -58,31 +72,6 @@
               <h3>Bug fixes</h3>
               <ul>
               <li>Don't show search/translate popup for misspelled word.
-              </ul>
-            ]]></description>
-        </item>
-        <item>
-            <title>1.14</title>
-            <pubDate>Fri, 31 Jan 2025 00:11:21 -0800</pubDate>
-            <sparkle:version>1.14</sparkle:version>
-            <sparkle:shortVersionString>1.14</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.14/Clicknow-1.14.dmg" length="6166206" type="application/octet-stream" sparkle:edSignature="WSuHMxGsXbXx0c4I+lp0JW67T5BH66+uHn2g1Mk5NDo5DN1MFIYiUdHe4Nkyl8eK1xoQ+CE7uzNTzc7Wx+Y6Ag=="/>
-            <description><![CDATA[
-              <h3>IMPORTANT: This version removes support for macOS 12 and earlier. Starting next version, minimum supported macOS version is 13.0+</h3>
-              <h3>Improvements</h3>
-              <ul>
-              <li>Enhanced explanation output with online data when available, greatly improving information accuracy and level of detail.</li>
-              <li>Upon first app launch, Clicknow now automatically detects and uses the system's locale as the default language.</li>
-              <li>Added soundmark (音标) display when translating words.</li>
-              <li>Optimized image display to fit window size.</li>
-              <li>Improved TTS quality.</li>
-              </ul>
-              
-              <h3>Bug fixes</h3>
-              <ul>
-              <li>Fixed trial count update issue.</li>
-              <li>Fixed unnecessary cmd+c trigger activation.</li>
               </ul>
             ]]></description>
         </item>
