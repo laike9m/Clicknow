@@ -1,0 +1,9 @@
+#popclip
+name: Clicknow
+actions:
+- title: Clicknow explain
+  icon: symbol:magnifyingglass.circle
+  url: clicknow://?action=explain&text=***
+- title: Clicknow translate
+  icon: symbol:character.book.closed
+  url: clicknow://?action=translate&text=***
