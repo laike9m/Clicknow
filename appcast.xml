@@ -3,6 +3,27 @@
     <channel>
         <title>Xylect</title>
         <item>
+            <title>1.14.6</title>
+            <pubDate>Sat, 15 Feb 2025 20:35:54 -0800</pubDate>
+            <sparkle:version>1.14.6</sparkle:version>
+            <sparkle:shortVersionString>1.14.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.14.6/Clicknow-1.14.6.dmg" length="7112542" type="application/octet-stream" sparkle:edSignature="oB5qGl/2kXmzNnZQ4x4UTwwhab1XIVq9EXSOYdUSCZ0LLYi/yctrfAVTIN+RbmdnWwD6EC2jYT6YJ/z4OKcVBQ=="/>
+            <description><![CDATA[
+              <h3>We have a native <a href="https://clicknow.ai/blog/popclip-clicknow-extension">PopClip extension!</a> </h3>
+              <h3>Improvements</h3>
+              <ul>
+              <li>Integrates with PopClip natively (read more in the above link)</li>
+              <li>Changed the icon for "translate".</li>
+              </ul>
+              <h3>Bug fixes</h3>
+              <ul>
+              <li>Fixed a bug when streaming explaination.</li>
+              <li>Fixed incorrect language choice in dictionary output.</li>
+              </ul>
+            ]]></description>
+        </item>
+        <item>
             <title>1.14.5</title>
             <pubDate>Sun, 09 Feb 2025 12:10:51 -0800</pubDate>
             <sparkle:version>1.14.5</sparkle:version>
@@ -53,25 +74,6 @@
               <ul>
               <li>Fixed a bug that could cause the popup to not show up</li>
               <li>Fixed some translation</li>
-              </ul>
-            ]]></description>
-        </item>
-        <item>
-            <title>1.14.1</title>
-            <pubDate>Sun, 02 Feb 2025 19:41:17 -0800</pubDate>
-            <sparkle:version>1.14.1</sparkle:version>
-            <sparkle:shortVersionString>1.14.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.14.1/Clicknow-1.14.1.dmg" length="7092883" type="application/octet-stream" sparkle:edSignature="mpIk7Lexf/tncMeYeNf839S2JbcT8b5ZFIHoAFGFGgac44iNUF6BfAs5eJkcVMs0BouCYebR7IY+EfmX+3fcCQ=="/>
-            <description><![CDATA[
-              <h3>Improvements</h3>
-              <ul>
-              <li>Support Arabic as output language.</li>
-              <li>Improved compatibility with PopClip.</li>
-              </ul>
-              <h3>Bug fixes</h3>
-              <ul>
-              <li>Don't show search/translate popup for misspelled word.
               </ul>
             ]]></description>
         </item>
