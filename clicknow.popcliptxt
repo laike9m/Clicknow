@@ -3,7 +3,21 @@ name: Clicknow
 actions:
 - title: Clicknow explain
   icon: symbol:magnifyingglass.circle
-  url: clicknow://?action=explain&text=***
+  applescript: |
+    tell application "Clicknow"
+      if it is not running then
+        launch
+        delay 1
+      end if
+      open location "clicknow://?action=explain&text={popclip text}"
+    end tell
 - title: Clicknow translate
   icon: symbol:character.book.closed
-  url: clicknow://?action=translate&text=***
+  applescript: |
+    tell application "Clicknow"
+      if it is not running then
+        launch
+        delay 1
+      end if
+      open location "clicknow://?action=translate&text={popclip text}"
+    end tell
