@@ -1,7 +1,18 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Xylect</title>
+        <title>Clicknow</title>
+        <item>
+            <title>1.14.8</title>
+            <pubDate>Sun, 23 Feb 2025 23:33:59 -0800</pubDate>
+            <sparkle:version>1.14.8</sparkle:version>
+            <sparkle:shortVersionString>1.14.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.14.8/Clicknow-1.14.8.dmg" length="7116469" type="application/octet-stream" sparkle:edSignature="m3s/FZ0pkna5bGam4kOvrgdQFWD0X6opWh+kUVwXn+50FTZRQh0jwzugxfQvHdXlPxO8fLslzSPQnu66cthCCA=="/>
+            <description><![CDATA[
+              Fixed a few small bugs.
+            ]]></description>
+        </item>
         <item>
             <title>1.14.7</title>
             <pubDate>Mon, 17 Feb 2025 16:17:52 -0800</pubDate>
@@ -57,20 +68,6 @@
             <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.14.4/Clicknow-1.14.4.dmg" length="7092793" type="application/octet-stream" sparkle:edSignature="hD69kpEwvd9UUn5Uroj5Go4fBEgThDxfT/MDAqXhJUADfasaryHkt2V2vTf1EEycAZLV+ni5+kSl56pypaItBA=="/>
             <description><![CDATA[
               Fixed a bug that can cause searching online to fail.
-            ]]></description>
-        </item>
-        <item>
-            <title>1.14.3</title>
-            <pubDate>Wed, 05 Feb 2025 11:42:26 -0800</pubDate>
-            <sparkle:version>1.14.3</sparkle:version>
-            <sparkle:shortVersionString>1.14.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.14.3/Clicknow-1.14.3.dmg" length="7092454" type="application/octet-stream" sparkle:edSignature="tzvhhlVMDNuGeu2Pb+3BKS/KFVXfbvzPl+2DUjdlqRwTTA9IEg8rCCl25U1yIwI8gLxa91YKWPIESYejzJCjBw=="/>
-            <description><![CDATA[
-              <ul>
-              <li>Fixed a small bug.</li>
-              <li>Switch to using Gemini 2.0 flash.</li>
-              </ul>
             ]]></description>
         </item>
         <item>
