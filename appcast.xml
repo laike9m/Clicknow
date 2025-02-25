@@ -3,6 +3,19 @@
     <channel>
         <title>Clicknow</title>
         <item>
+            <title>1.14.9</title>
+            <pubDate>Mon, 24 Feb 2025 22:29:33 -0800</pubDate>
+            <sparkle:version>1.14.9</sparkle:version>
+            <sparkle:shortVersionString>1.14.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.14.9/Clicknow-1.14.9.dmg" length="7115912" type="application/octet-stream" sparkle:edSignature="X1xI9aAOcGZUFQ6GKD+LmakvicVp263WPMD4tDRcBQV/pAtDJJvrr1PEly0eO5I1tuX2Lgb/zlSssFLxLKHmDA=="/>
+            <description><![CDATA[
+              - Make Clicknow work in Telegram's webview
+              - Fixed a bug in parsing Katex math formulas
+              - Fixed a bug in license verification
+            ]]></description>
+        </item>
+        <item>
             <title>1.14.8</title>
             <pubDate>Sun, 23 Feb 2025 23:33:59 -0800</pubDate>
             <sparkle:version>1.14.8</sparkle:version>
@@ -59,17 +72,6 @@
               <li>Support RTL(Right-to-Left) rendering for Arabic.</li>
               <li>Imporved the output format of dictionary.</li>
               </ul>
-            ]]></description>
-        </item>
-        <item>
-            <title>1.14.4</title>
-            <pubDate>Thu, 06 Feb 2025 18:12:41 -0800</pubDate>
-            <sparkle:version>1.14.4</sparkle:version>
-            <sparkle:shortVersionString>1.14.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.14.4/Clicknow-1.14.4.dmg" length="7092793" type="application/octet-stream" sparkle:edSignature="hD69kpEwvd9UUn5Uroj5Go4fBEgThDxfT/MDAqXhJUADfasaryHkt2V2vTf1EEycAZLV+ni5+kSl56pypaItBA=="/>
-            <description><![CDATA[
-              Fixed a bug that can cause searching online to fail.
             ]]></description>
         </item>
         <item>
