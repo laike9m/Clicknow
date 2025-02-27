@@ -9,7 +9,7 @@ actions:
         launch
         delay 1
       end if
-      open location "clicknow://?action=explain&text={popclip text}"
+      open location "clicknow://?action=explain&text={popclip urlencoded text}"
     end tell
 - title: Clicknow translate
   icon: symbol:character.book.closed
@@ -19,5 +19,5 @@ actions:
         launch
         delay 1
       end if
-      open location "clicknow://?action=translate&text={popclip text}"
+      open location "clicknow://?action=translate&text={popclip urlencoded text}"
     end tell
