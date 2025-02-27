@@ -3,6 +3,25 @@
     <channel>
         <title>Clicknow</title>
         <item>
+            <title>1.14.10</title>
+            <pubDate>Wed, 26 Feb 2025 21:03:30 -0800</pubDate>
+            <sparkle:version>1.14.10</sparkle:version>
+            <sparkle:shortVersionString>1.14.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.14.10/Clicknow-1.14.10.dmg" length="7116713" type="application/octet-stream" sparkle:edSignature="nXEd+N60WO44d44SB3FW/lAz6pafqlQqQVB09z//3YDtF+eB5iwkwtUsGuMh3CM9VhZ3654plHSsW0nNgOo9Aw=="/>
+            <description><![CDATA[
+              <h3>Improvements</h3>
+              <ul>
+              <li><a href="https://github.com/laike9m/Clicknow/blob/main/clicknow.popcliptxt">PopClip extension</a> updated</li>
+              <li>Changed the icon for "translate".</li>
+              </ul>
+              <h3>Bug fixes</h3>
+              <ul>
+              <li>Fixed a bug that prevented online search.</li>
+              </ul>
+            ]]></description>
+        </item>
+        <item>
             <title>1.14.9</title>
             <pubDate>Mon, 24 Feb 2025 22:29:33 -0800</pubDate>
             <sparkle:version>1.14.9</sparkle:version>
@@ -57,20 +76,6 @@
               <ul>
               <li>Fixed a bug when streaming explaination.</li>
               <li>Fixed incorrect language choice in dictionary output.</li>
-              </ul>
-            ]]></description>
-        </item>
-        <item>
-            <title>1.14.5</title>
-            <pubDate>Sun, 09 Feb 2025 12:10:51 -0800</pubDate>
-            <sparkle:version>1.14.5</sparkle:version>
-            <sparkle:shortVersionString>1.14.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.14.5/Clicknow-1.14.5.dmg" length="7112000" type="application/octet-stream" sparkle:edSignature="jLcNCaokp2uh/YdR3weasGsnpfwft4ow7xbGrgTxRYDI1tO6su2o1MWxQ8rfUBQQrxq/JB5aIaedWGwtLKlkBw=="/>
-            <description><![CDATA[
-              <ul>
-              <li>Support RTL(Right-to-Left) rendering for Arabic.</li>
-              <li>Imporved the output format of dictionary.</li>
               </ul>
             ]]></description>
         </item>
