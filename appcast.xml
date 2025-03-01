@@ -3,6 +3,17 @@
     <channel>
         <title>Clicknow</title>
         <item>
+            <title>1.14.11</title>
+            <pubDate>Fri, 28 Feb 2025 20:26:44 -0800</pubDate>
+            <sparkle:version>1.14.11</sparkle:version>
+            <sparkle:shortVersionString>1.14.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.14.11/Clicknow-1.14.11.dmg" length="7116759" type="application/octet-stream" sparkle:edSignature="UYkvVdGdQUnUwSpToGwh80aRS2Qq3t+3/DbShGPaZwqYerbHuiBPjQy5AY/9REXKWps0RvSe14rN08LEwPjZDg=="/>
+            <description><![CDATA[
+              Bug fixes
+            ]]></description>
+        </item>
+        <item>
             <title>1.14.10</title>
             <pubDate>Wed, 26 Feb 2025 21:03:30 -0800</pubDate>
             <sparkle:version>1.14.10</sparkle:version>
@@ -56,27 +67,6 @@
             <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.14.7/Clicknow-1.14.7.dmg" length="7120029" type="application/octet-stream" sparkle:edSignature="MNYMktemZGhJCHFzxArh7++e+xN8xz0K2eOMXq/HoEJbfyx/P1GoJ+i/Sabr8H3XYF1bHia/rWgC3eXZlrvzBA=="/>
             <description><![CDATA[
               Fixed a bug that caused popup to not show up on top of full screen apps.
-            ]]></description>
-        </item>
-        <item>
-            <title>1.14.6</title>
-            <pubDate>Sat, 15 Feb 2025 20:35:54 -0800</pubDate>
-            <sparkle:version>1.14.6</sparkle:version>
-            <sparkle:shortVersionString>1.14.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.14.6/Clicknow-1.14.6.dmg" length="7112542" type="application/octet-stream" sparkle:edSignature="oB5qGl/2kXmzNnZQ4x4UTwwhab1XIVq9EXSOYdUSCZ0LLYi/yctrfAVTIN+RbmdnWwD6EC2jYT6YJ/z4OKcVBQ=="/>
-            <description><![CDATA[
-              <h3>We have a native <a href="https://clicknow.ai/blog/popclip-clicknow-extension">PopClip extension!</a> </h3>
-              <h3>Improvements</h3>
-              <ul>
-              <li>Integrates with PopClip natively (read more in the above link)</li>
-              <li>Changed the icon for "translate".</li>
-              </ul>
-              <h3>Bug fixes</h3>
-              <ul>
-              <li>Fixed a bug when streaming explaination.</li>
-              <li>Fixed incorrect language choice in dictionary output.</li>
-              </ul>
             ]]></description>
         </item>
         <item>
