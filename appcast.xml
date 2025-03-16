@@ -3,6 +3,21 @@
     <channel>
         <title>Clicknow</title>
         <item>
+            <title>1.14.12</title>
+            <pubDate>Sat, 15 Mar 2025 19:37:19 -0700</pubDate>
+            <sparkle:version>1.14.12</sparkle:version>
+            <sparkle:shortVersionString>1.14.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.14.12/Clicknow-1.14.12.dmg" length="7115647" type="application/octet-stream" sparkle:edSignature="aEBl7jl50SpDUFjDfzFlXWDrw1Dj83XxS59MkEArSv+YwVcvrKDIsi0ArgR65DeQeKDxJFs96eDaI0+kaW69Cw=="/>
+            <description><![CDATA[
+              <h3>Improvements</h3>
+              <ul>
+              <li>Support more output languages: 日本語, Español, हद, Русский, Português, Türkçe</li>
+              <li>Improved the speed for translation.</li>
+              </ul>
+            ]]></description>
+        </item>
+        <item>
             <title>1.14.11</title>
             <pubDate>Fri, 28 Feb 2025 20:26:44 -0800</pubDate>
             <sparkle:version>1.14.11</sparkle:version>
@@ -56,17 +71,6 @@
               Fixed a few small bugs.
               
               PopClip extension has been updated, download <a href="https://github.com/laike9m/Clicknow/releases/download/1.14.8/clicknow.popcliptxt">here</a>
-            ]]></description>
-        </item>
-        <item>
-            <title>1.14.7</title>
-            <pubDate>Mon, 17 Feb 2025 16:17:52 -0800</pubDate>
-            <sparkle:version>1.14.7</sparkle:version>
-            <sparkle:shortVersionString>1.14.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.14.7/Clicknow-1.14.7.dmg" length="7120029" type="application/octet-stream" sparkle:edSignature="MNYMktemZGhJCHFzxArh7++e+xN8xz0K2eOMXq/HoEJbfyx/P1GoJ+i/Sabr8H3XYF1bHia/rWgC3eXZlrvzBA=="/>
-            <description><![CDATA[
-              Fixed a bug that caused popup to not show up on top of full screen apps.
             ]]></description>
         </item>
         <item>
