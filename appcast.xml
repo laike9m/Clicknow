@@ -9,11 +9,13 @@
             <sparkle:shortVersionString>1.15</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.15/Clicknow-1.15.dmg" length="8812527" type="application/octet-stream" sparkle:edSignature="nEc30REZYHB8Q6RpsA71tFl39jbLFlbj0inC8R1aDfrjGGlqAEpMlzIXt5fT6uFV+7PBVn2InJ/X/60y8cHzCw=="/>
-            <h3>Improvements</h3>
+            <description><![CDATA[
+              <h3>Improvements</h3>
               <ul>
               <li><b>Custom models (OpenAI, Claude, Deepseek) now supported 🎉<b/>, see the <a href="https://clicknow.ai/blog/custom-models">announcement blog</a>.</li>
               <li>Improved the accuracy for date text detection (so you can an event to calendar)</li>
               </ul>
+            ]]></description>
         </item>
         <item>
             <title>1.14.12</title>
