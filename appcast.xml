@@ -3,6 +3,17 @@
     <channel>
         <title>Clicknow</title>
         <item>
+            <title>1.15.1</title>
+            <pubDate>Sat, 05 Apr 2025 11:03:38 -0700</pubDate>
+            <sparkle:version>1.15.1</sparkle:version>
+            <sparkle:shortVersionString>1.15.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.15.1/Clicknow-1.15.1.dmg" length="8809042" type="application/octet-stream" sparkle:edSignature="0jQUe9ljAN0ObYDEELuGJvGyI7q0fv89GLPIYp0LwSuSUvrCk5nA/Eo9HxIzT5jkn6QarlORJoHrrk+MLIZdDA=="/>
+            <description><![CDATA[
+              Fixed a bug that could lead to crashing.
+            ]]></description>
+        </item>
+        <item>
             <title>1.15</title>
             <pubDate>Fri, 04 Apr 2025 15:40:36 -0700</pubDate>
             <sparkle:version>1.15</sparkle:version>
@@ -60,19 +71,6 @@
               <ul>
               <li>Fixed a bug that prevented online search.</li>
               </ul>
-            ]]></description>
-        </item>
-        <item>
-            <title>1.14.9</title>
-            <pubDate>Mon, 24 Feb 2025 22:29:33 -0800</pubDate>
-            <sparkle:version>1.14.9</sparkle:version>
-            <sparkle:shortVersionString>1.14.9</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.14.9/Clicknow-1.14.9.dmg" length="7115912" type="application/octet-stream" sparkle:edSignature="X1xI9aAOcGZUFQ6GKD+LmakvicVp263WPMD4tDRcBQV/pAtDJJvrr1PEly0eO5I1tuX2Lgb/zlSssFLxLKHmDA=="/>
-            <description><![CDATA[
-              - Make Clicknow work in Telegram's webview
-              - Fixed a bug in parsing Katex math formulas
-              - Fixed a bug in license verification
             ]]></description>
         </item>
         <item>
