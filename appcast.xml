@@ -3,6 +3,21 @@
     <channel>
         <title>Clicknow</title>
         <item>
+            <title>1.16</title>
+            <pubDate>Sun, 06 Apr 2025 18:32:16 -0700</pubDate>
+            <sparkle:version>1.16</sparkle:version>
+            <sparkle:shortVersionString>1.16</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.16/Clicknow-1.16.dmg" length="9206718" type="application/octet-stream" sparkle:edSignature="44b+38EQzUZd4vYwBwtgMMZtmZud6/Z42CpvpypXHuXWD0HMx4u8W5oCxLXv/ih4Ml47od1a9J4Jt0MljIjlCQ=="/>
+            <description><![CDATA[
+              <h2>Support two-way translation.
+                See <a href="https://clicknow.ai/blog/two-way-translation">
+                announcement blog
+                </a>for details.
+              </h2>
+            ]]></description>
+        </item>
+        <item>
             <title>1.15.1</title>
             <pubDate>Sat, 05 Apr 2025 11:03:38 -0700</pubDate>
             <sparkle:version>1.15.1</sparkle:version>
@@ -52,25 +67,6 @@
             <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.14.11/Clicknow-1.14.11.dmg" length="7116759" type="application/octet-stream" sparkle:edSignature="UYkvVdGdQUnUwSpToGwh80aRS2Qq3t+3/DbShGPaZwqYerbHuiBPjQy5AY/9REXKWps0RvSe14rN08LEwPjZDg=="/>
             <description><![CDATA[
               Bug fixes
-            ]]></description>
-        </item>
-        <item>
-            <title>1.14.10</title>
-            <pubDate>Wed, 26 Feb 2025 21:03:30 -0800</pubDate>
-            <sparkle:version>1.14.10</sparkle:version>
-            <sparkle:shortVersionString>1.14.10</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.14.10/Clicknow-1.14.10.dmg" length="7116713" type="application/octet-stream" sparkle:edSignature="nXEd+N60WO44d44SB3FW/lAz6pafqlQqQVB09z//3YDtF+eB5iwkwtUsGuMh3CM9VhZ3654plHSsW0nNgOo9Aw=="/>
-            <description><![CDATA[
-              <h3>Improvements</h3>
-              <ul>
-              <li><a href="https://github.com/laike9m/Clicknow/blob/main/clicknow.popcliptxt">PopClip extension</a> updated</li>
-              <li>Changed the icon for "translate".</li>
-              </ul>
-              <h3>Bug fixes</h3>
-              <ul>
-              <li>Fixed a bug that prevented online search.</li>
-              </ul>
             ]]></description>
         </item>
         <item>
