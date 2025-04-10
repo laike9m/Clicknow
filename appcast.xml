@@ -3,6 +3,17 @@
     <channel>
         <title>Clicknow</title>
         <item>
+            <title>1.16.2</title>
+            <pubDate>Wed, 09 Apr 2025 23:49:27 -0700</pubDate>
+            <sparkle:version>1.16.2</sparkle:version>
+            <sparkle:shortVersionString>1.16.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.16.2/Clicknow-1.16.2.dmg" length="9205483" type="application/octet-stream" sparkle:edSignature="hfGP1nLeInqOWF018m/GWiCzhSfVOmDrl/g3cHuMhdHInL8+FzrEElq3EXLNjY2pgTffhSaZI9sKj1dH3BSNDA=="/>
+            <description><![CDATA[
+              Fixed bug: two-way translation doesn't work in PopClip.
+            ]]></description>
+        </item>
+        <item>
             <title>1.16.1</title>
             <pubDate>Mon, 07 Apr 2025 23:53:17 -0700</pubDate>
             <sparkle:version>1.16.1</sparkle:version>
@@ -51,21 +62,6 @@
               <ul>
               <li><b>Custom models (OpenAI, Claude, Deepseek) now supported 🎉<b/>, see the <a href="https://clicknow.ai/blog/custom-models">announcement blog</a>.</li>
               <li>Improved the accuracy for date text detection (so you can an event to calendar)</li>
-              </ul>
-            ]]></description>
-        </item>
-        <item>
-            <title>1.14.12</title>
-            <pubDate>Sat, 15 Mar 2025 19:37:19 -0700</pubDate>
-            <sparkle:version>1.14.12</sparkle:version>
-            <sparkle:shortVersionString>1.14.12</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.14.12/Clicknow-1.14.12.dmg" length="7115647" type="application/octet-stream" sparkle:edSignature="aEBl7jl50SpDUFjDfzFlXWDrw1Dj83XxS59MkEArSv+YwVcvrKDIsi0ArgR65DeQeKDxJFs96eDaI0+kaW69Cw=="/>
-            <description><![CDATA[
-              <h3>Improvements</h3>
-              <ul>
-              <li>Support more output languages: 日本語, Español, हद, Русский, Português, Türkçe</li>
-              <li>Improved the speed for translation.</li>
               </ul>
             ]]></description>
         </item>
