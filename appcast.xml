@@ -3,6 +3,21 @@
     <channel>
         <title>Clicknow</title>
         <item>
+            <title>1.16.5</title>
+            <pubDate>Sun, 20 Apr 2025 17:14:58 -0700</pubDate>
+            <sparkle:version>1.16.5</sparkle:version>
+            <sparkle:shortVersionString>1.16.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.16.5/Clicknow-1.16.5.dmg" length="9175881" type="application/octet-stream" sparkle:edSignature="oozjxlrifs4B5YwP95VQY/fXqQy33LmfcQCWv8rk8IB3K7gJJH+KXoEdBXPBeYYLUEGjH53THWvdcMRBY4yZAQ=="/>
+            <description><![CDATA[
+              You can now turn Clicknow on and off by right-clicking the icon:
+              <br>
+              <div style="padding:67.92% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1077150467?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media" style="position:absolute;top:0;left:0;width:30%;height:30%;" title="right click status icon"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+              
+              If the video doesn't play, view it <a href="https://vimeo.com/1077150467?share=copy">here</a>
+            ]]></description>
+        </item>
+        <item>
             <title>1.16.4</title>
             <pubDate>Sat, 19 Apr 2025 11:59:04 -0700</pubDate>
             <sparkle:version>1.16.4</sparkle:version>
@@ -49,21 +64,6 @@
             <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.16.1/Clicknow-1.16.1.dmg" length="9206512" type="application/octet-stream" sparkle:edSignature="C67rhLXdpHe5iSl3Gj50IBeaJaUl/RuUOFPPc/Ik7d5v/okWGmh4mjVM4KBNkDJIOEPldRUGm1vBxl5lLNDgDQ=="/>
             <description><![CDATA[
               Fixed some small bugs.
-            ]]></description>
-        </item>
-        <item>
-            <title>1.16</title>
-            <pubDate>Sun, 06 Apr 2025 18:32:16 -0700</pubDate>
-            <sparkle:version>1.16</sparkle:version>
-            <sparkle:shortVersionString>1.16</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.16/Clicknow-1.16.dmg" length="9206718" type="application/octet-stream" sparkle:edSignature="44b+38EQzUZd4vYwBwtgMMZtmZud6/Z42CpvpypXHuXWD0HMx4u8W5oCxLXv/ih4Ml47od1a9J4Jt0MljIjlCQ=="/>
-            <description><![CDATA[
-              <h2>Support two-way translation.
-                See <a href="https://clicknow.ai/blog/two-way-translation">
-                announcement blog
-                </a>for details.
-              </h2>
             ]]></description>
         </item>
         <item>
