@@ -3,6 +3,18 @@
     <channel>
         <title>Clicknow</title>
         <item>
+            <title>1.16.10</title>
+            <pubDate>Tue, 13 May 2025 23:17:51 -0700</pubDate>
+            <sparkle:version>1.16.10</sparkle:version>
+            <sparkle:shortVersionString>1.16.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.16.10/Clicknow-1.16.10.dmg" length="9171750" type="application/octet-stream" sparkle:edSignature="t1OBiDdnXESbzuEb0Aax70d2HC3zSiUlGPjlerRZI31JQugoNfuru6t3sGgvoaxWg8MXuEs7I1pDwfTAE7EkBg=="/>
+            <description><![CDATA[
+              - Bug fixes
+              - Improved prompt for explanation
+            ]]></description>
+        </item>
+        <item>
             <title>1.16.9</title>
             <pubDate>Tue, 06 May 2025 00:40:27 -0700</pubDate>
             <sparkle:version>1.16.9</sparkle:version>
@@ -52,19 +64,6 @@
             <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.16.6/Clicknow-1.16.6.dmg" length="9176031" type="application/octet-stream" sparkle:edSignature="XEafjIpTKnHVH9ThAB+Pxf0bd44Akn67EzByJ+PFcq3SlbRFOo7WngriB0kj16kjXB2CpMH/Q7s/zQ5zeyRzAg=="/>
             <description><![CDATA[
               Support Indonesia, Vietnamese and Korean.
-            ]]></description>
-        </item>
-        <item>
-            <title>1.16.5</title>
-            <pubDate>Sun, 20 Apr 2025 17:14:58 -0700</pubDate>
-            <sparkle:version>1.16.5</sparkle:version>
-            <sparkle:shortVersionString>1.16.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.16.5/Clicknow-1.16.5.dmg" length="9175881" type="application/octet-stream" sparkle:edSignature="oozjxlrifs4B5YwP95VQY/fXqQy33LmfcQCWv8rk8IB3K7gJJH+KXoEdBXPBeYYLUEGjH53THWvdcMRBY4yZAQ=="/>
-            <description><![CDATA[
-              You can now turn Clicknow on and off by right-clicking the icon:
-              <br>
-              See demon video <a href="https://vimeo.com/1077150467?share=copy">here</a>
             ]]></description>
         </item>
     </channel>
