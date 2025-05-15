@@ -3,6 +3,17 @@
     <channel>
         <title>Clicknow</title>
         <item>
+            <title>1.16.11</title>
+            <pubDate>Wed, 14 May 2025 22:48:05 -0700</pubDate>
+            <sparkle:version>1.16.11</sparkle:version>
+            <sparkle:shortVersionString>1.16.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.16.11/Clicknow-1.16.11.dmg" length="9170415" type="application/octet-stream" sparkle:edSignature="xpAwZJHnmE/iscvbToMAjH/Xw2Yni3FbqbsDlJNUTY+h7D3d0hSo36DGgt6zMyc0JrKL4i1rUEtuaq2drs0jCA=="/>
+            <description><![CDATA[
+              Fixed a bug: certain text in Chrome doesn't trigger Clicknow
+            ]]></description>
+        </item>
+        <item>
             <title>1.16.10</title>
             <pubDate>Tue, 13 May 2025 23:17:51 -0700</pubDate>
             <sparkle:version>1.16.10</sparkle:version>
@@ -53,17 +64,6 @@
             <description><![CDATA[
               - Bug fixes.
               - Make popup's width more appropriate.
-            ]]></description>
-        </item>
-        <item>
-            <title>1.16.6</title>
-            <pubDate>Sun, 20 Apr 2025 22:05:21 -0700</pubDate>
-            <sparkle:version>1.16.6</sparkle:version>
-            <sparkle:shortVersionString>1.16.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.16.6/Clicknow-1.16.6.dmg" length="9176031" type="application/octet-stream" sparkle:edSignature="XEafjIpTKnHVH9ThAB+Pxf0bd44Akn67EzByJ+PFcq3SlbRFOo7WngriB0kj16kjXB2CpMH/Q7s/zQ5zeyRzAg=="/>
-            <description><![CDATA[
-              Support Indonesia, Vietnamese and Korean.
             ]]></description>
         </item>
     </channel>
