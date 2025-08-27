@@ -3,6 +3,19 @@
     <channel>
         <title>Clicknow</title>
         <item>
+            <title>1.17.4</title>
+            <pubDate>Tue, 26 Aug 2025 23:42:26 -0700</pubDate>
+            <sparkle:version>1.17.4</sparkle:version>
+            <sparkle:shortVersionString>1.17.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.17.4/Clicknow-1.17.4.dmg" length="9140387" type="application/octet-stream" sparkle:edSignature="Z0gYQrp88/INFbX1QCps2CEmELuoShgZa6gEDyFLiljPjxOx834NDTl1m7EtCTHyB1fyok33r2MOhyGb2cL+Cg=="/>
+            <description><![CDATA[
+              Improvements:
+              - Avoid triggering a copy when it's unnecessary
+              - You can now disable Clicknow in the current app directly from the status menu
+            ]]></description>
+        </item>
+        <item>
             <title>1.17.3</title>
             <pubDate>Fri, 08 Aug 2025 00:34:55 -0700</pubDate>
             <sparkle:version>1.17.3</sparkle:version>
@@ -46,17 +59,6 @@
             <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.17/Clicknow-1.17.dmg" length="9181499" type="application/octet-stream" sparkle:edSignature="IKKuJZ3+I0IrvE0A7NRwLTNptOtZv6wz38TRJJ0iNnzL3g+0wQnxxTf0FF1InrCMidu12bsRi4kkPuliDwAnBw=="/>
             <description><![CDATA[
               - New feature: open zacks.com if you select a stock symbol
-            ]]></description>
-        </item>
-        <item>
-            <title>1.16.12</title>
-            <pubDate>Mon, 26 May 2025 21:32:01 -0700</pubDate>
-            <sparkle:version>1.16.12</sparkle:version>
-            <sparkle:shortVersionString>1.16.12</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.16.12/Clicknow-1.16.12.dmg" length="9172469" type="application/octet-stream" sparkle:edSignature="mjGOIen1ZHl1nMLPXcMBdEkrW1Nc7/Bbmx7EltH0W5eSLhnt9n7h0f/gP97DYxFE50xOob9rllygUdAsK6dJDQ=="/>
-            <description><![CDATA[
-              Improved the accuracy of text selection detection.
             ]]></description>
         </item>
     </channel>
