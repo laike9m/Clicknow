@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Clicknow</title>
+        <item>
+            <title>1.17.5</title>
+            <pubDate>Wed, 10 Sep 2025 23:17:30 -0700</pubDate>
+            <sparkle:version>1.17.5</sparkle:version>
+            <sparkle:shortVersionString>1.17.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.17.5/Clicknow-1.17.5.dmg" length="9137973" type="application/octet-stream" sparkle:edSignature="LH01aGwjP/HHO4z/xwbOOaXj/TPl4KgVajqU2eAa4HEu9Oi2ZRTh1IwEBgu8AW00R3z6ycIn53eJxhkm5OGxAA=="/>
+            <description><![CDATA[
+              Bug fixes
+            ]]></description>
+        </item>
+        <item>
+            <title>1.17.4</title>
+            <pubDate>Tue, 26 Aug 2025 23:42:26 -0700</pubDate>
+            <sparkle:version>1.17.4</sparkle:version>
+            <sparkle:shortVersionString>1.17.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.17.4/Clicknow-1.17.4.dmg" length="9140387" type="application/octet-stream" sparkle:edSignature="Z0gYQrp88/INFbX1QCps2CEmELuoShgZa6gEDyFLiljPjxOx834NDTl1m7EtCTHyB1fyok33r2MOhyGb2cL+Cg=="/>
+            <description><![CDATA[
+              Improvements:
+              - Avoid triggering a copy when it's unnecessary
+              - You can now disable Clicknow in the current app directly from the status menu
+            ]]></description>
+        </item>
+        <item>
+            <title>1.17.3</title>
+            <pubDate>Fri, 08 Aug 2025 00:34:55 -0700</pubDate>
+            <sparkle:version>1.17.3</sparkle:version>
+            <sparkle:shortVersionString>1.17.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.17.3/Clicknow-1.17.3.dmg" length="9137389" type="application/octet-stream" sparkle:edSignature="Q3d00oPjNnWSchDD4bjfl9OWbGAta/bO5mtM0oFOay2e2BcQUwCyiQZprumS9KxDKZ0AlAmtPQQvrUx4FwXvCQ=="/>
+            <description><![CDATA[
+              Improvements:
+              - Ignore incorrectly capitalized word from spell checker
+              - Add text tooltip to settings tab
+            ]]></description>
+        </item>
+        <item>
+            <title>1.17.2</title>
+            <pubDate>Thu, 26 Jun 2025 23:31:37 -0700</pubDate>
+            <sparkle:version>1.17.2</sparkle:version>
+            <sparkle:shortVersionString>1.17.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.17.2/Clicknow-1.17.2.dmg" length="9177415" type="application/octet-stream" sparkle:edSignature="CXS6Gqx4FS4OhaIjK2NJUOUjOt5aDqWlOupkE8PyzbiqDB1VX6W5Ic06nymV0MRXu5HTa+kRqL9i4f77MoliCQ=="/>
+            <description><![CDATA[
+              Bug fix: Fix Perplexity data not load issue.
+            ]]></description>
+        </item>
+        <item>
+            <title>1.17.1</title>
+            <pubDate>Fri, 20 Jun 2025 14:06:42 -0700</pubDate>
+            <sparkle:version>1.17.1</sparkle:version>
+            <sparkle:shortVersionString>1.17.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.17.1/Clicknow-1.17.1.dmg" length="9179658" type="application/octet-stream" sparkle:edSignature="HTUvl+k9uD7fAzcb9Ug9RXfkf/BD4Vndzzs0f+xykaqociu2YRbKR5dCB/CKjgt+JpuaxfczSNQoIV2RPZQqAw=="/>
+            <description><![CDATA[
+              Bug fix: status bar not shown in macOS Tahoe
+            ]]></description>
+        </item>
+    </channel>
+</rss>
