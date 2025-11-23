@@ -3,6 +3,21 @@
     <channel>
         <title>Clicknow</title>
         <item>
+            <title>1.18</title>
+            <pubDate>Sun, 23 Nov 2025 00:56:04 -0800</pubDate>
+            <sparkle:version>1.18</sparkle:version>
+            <sparkle:shortVersionString>1.18</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.18/Clicknow-1.18.dmg" length="9160155" type="application/octet-stream" sparkle:edSignature="/UrlOB62qGgzby/cOJdQSo8MHaPvNKTYjb/7sGbsUP0ugHbm9vlcYFmEvnIPhTj48Q8Caw32KBTSAE0lSUN2DQ=="/>
+            <description><![CDATA[
+              Bug fixes:
+              - Fixed image rendering
+              
+              Improvements:
+              - Improved the speed of streaming explanation
+            ]]></description>
+        </item>
+        <item>
             <title>1.17.5</title>
             <pubDate>Wed, 10 Sep 2025 23:17:30 -0700</pubDate>
             <sparkle:version>1.17.5</sparkle:version>
@@ -48,17 +63,6 @@
             <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.17.2/Clicknow-1.17.2.dmg" length="9177415" type="application/octet-stream" sparkle:edSignature="CXS6Gqx4FS4OhaIjK2NJUOUjOt5aDqWlOupkE8PyzbiqDB1VX6W5Ic06nymV0MRXu5HTa+kRqL9i4f77MoliCQ=="/>
             <description><![CDATA[
               Bug fix: Fix Perplexity data not load issue.
-            ]]></description>
-        </item>
-        <item>
-            <title>1.17.1</title>
-            <pubDate>Fri, 20 Jun 2025 14:06:42 -0700</pubDate>
-            <sparkle:version>1.17.1</sparkle:version>
-            <sparkle:shortVersionString>1.17.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.17.1/Clicknow-1.17.1.dmg" length="9179658" type="application/octet-stream" sparkle:edSignature="HTUvl+k9uD7fAzcb9Ug9RXfkf/BD4Vndzzs0f+xykaqociu2YRbKR5dCB/CKjgt+JpuaxfczSNQoIV2RPZQqAw=="/>
-            <description><![CDATA[
-              Bug fix: status bar not shown in macOS Tahoe
             ]]></description>
         </item>
     </channel>
