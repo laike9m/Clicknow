@@ -3,6 +3,17 @@
     <channel>
         <title>Clicknow</title>
         <item>
+            <title>1.18.1</title>
+            <pubDate>Wed, 26 Nov 2025 19:23:54 -0800</pubDate>
+            <sparkle:version>1.18.1</sparkle:version>
+            <sparkle:shortVersionString>1.18.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.18.1/Clicknow-1.18.1.dmg" length="9159968" type="application/octet-stream" sparkle:edSignature="PXXtEnmrND8yZqr9h0PKHU5Ph4QcbFFPdClmztc0hVPA7y5p+UaBBE99wDE562IlEQjoU7mxL/pJSqX2yqOMBA=="/>
+            <description><![CDATA[
+              Fixed a small bug.
+            ]]></description>
+        </item>
+        <item>
             <title>1.18</title>
             <pubDate>Sun, 23 Nov 2025 00:56:04 -0800</pubDate>
             <sparkle:version>1.18</sparkle:version>
@@ -52,17 +63,6 @@
               Improvements:
               - Ignore incorrectly capitalized word from spell checker
               - Add text tooltip to settings tab
-            ]]></description>
-        </item>
-        <item>
-            <title>1.17.2</title>
-            <pubDate>Thu, 26 Jun 2025 23:31:37 -0700</pubDate>
-            <sparkle:version>1.17.2</sparkle:version>
-            <sparkle:shortVersionString>1.17.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.17.2/Clicknow-1.17.2.dmg" length="9177415" type="application/octet-stream" sparkle:edSignature="CXS6Gqx4FS4OhaIjK2NJUOUjOt5aDqWlOupkE8PyzbiqDB1VX6W5Ic06nymV0MRXu5HTa+kRqL9i4f77MoliCQ=="/>
-            <description><![CDATA[
-              Bug fix: Fix Perplexity data not load issue.
             ]]></description>
         </item>
     </channel>
