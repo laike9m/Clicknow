@@ -3,6 +3,23 @@
     <channel>
         <title>Clicknow</title>
         <item>
+            <title>1.18.2</title>
+            <pubDate>Fri, 28 Nov 2025 14:58:01 -0800</pubDate>
+            <sparkle:version>1.18.2</sparkle:version>
+            <sparkle:shortVersionString>1.18.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.18.2/Clicknow-1.18.2.dmg" length="9159936" type="application/octet-stream" sparkle:edSignature="fQMRaQSE4DT4fBKsmKOw2Gj7yDIE1kMOlGG2f1FzC7N4WlTLZ3KZLJZeR5SHuv+LTw3yZA3uOUg5ZXJkT11MAg=="/>
+            <description><![CDATA[
+              Bug fixes:
+              - Fixed a bug in response rendering
+              
+              Improvements:
+              - You can now select a date string across multiple lines and call out the calendar, e.g.
+                Sat, Nov 29
+                07:00 AM
+            ]]></description>
+        </item>
+        <item>
             <title>1.18.1</title>
             <pubDate>Wed, 26 Nov 2025 19:23:54 -0800</pubDate>
             <sparkle:version>1.18.1</sparkle:version>
@@ -50,19 +67,6 @@
               Improvements:
               - Avoid triggering a copy when it's unnecessary
               - You can now disable Clicknow in the current app directly from the status menu
-            ]]></description>
-        </item>
-        <item>
-            <title>1.17.3</title>
-            <pubDate>Fri, 08 Aug 2025 00:34:55 -0700</pubDate>
-            <sparkle:version>1.17.3</sparkle:version>
-            <sparkle:shortVersionString>1.17.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.17.3/Clicknow-1.17.3.dmg" length="9137389" type="application/octet-stream" sparkle:edSignature="Q3d00oPjNnWSchDD4bjfl9OWbGAta/bO5mtM0oFOay2e2BcQUwCyiQZprumS9KxDKZ0AlAmtPQQvrUx4FwXvCQ=="/>
-            <description><![CDATA[
-              Improvements:
-              - Ignore incorrectly capitalized word from spell checker
-              - Add text tooltip to settings tab
             ]]></description>
         </item>
     </channel>
