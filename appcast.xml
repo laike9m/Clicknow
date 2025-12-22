@@ -3,6 +3,17 @@
     <channel>
         <title>Clicknow</title>
         <item>
+            <title>1.18.3</title>
+            <pubDate>Mon, 22 Dec 2025 14:25:05 -0800</pubDate>
+            <sparkle:version>1.18.3</sparkle:version>
+            <sparkle:shortVersionString>1.18.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.18.3/Clicknow-1.18.3.dmg" length="9172263" type="application/octet-stream" sparkle:edSignature="E+C2pWK9l3eG3b47Od4POqk3runnV404x/sSVIw2/NKoMEU78+9fb6hyQcvLvlFddznrsOYlanoqCvf8vEWbDA=="/>
+            <description><![CDATA[
+              [❗please upgrade] Fixed a bug that caused explanation response to not load.
+            ]]></description>
+        </item>
+        <item>
             <title>1.18.2</title>
             <pubDate>Fri, 28 Nov 2025 14:58:01 -0800</pubDate>
             <sparkle:version>1.18.2</sparkle:version>
@@ -54,19 +65,6 @@
             <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.17.5/Clicknow-1.17.5.dmg" length="9137973" type="application/octet-stream" sparkle:edSignature="LH01aGwjP/HHO4z/xwbOOaXj/TPl4KgVajqU2eAa4HEu9Oi2ZRTh1IwEBgu8AW00R3z6ycIn53eJxhkm5OGxAA=="/>
             <description><![CDATA[
               Bug fixes
-            ]]></description>
-        </item>
-        <item>
-            <title>1.17.4</title>
-            <pubDate>Tue, 26 Aug 2025 23:42:26 -0700</pubDate>
-            <sparkle:version>1.17.4</sparkle:version>
-            <sparkle:shortVersionString>1.17.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.17.4/Clicknow-1.17.4.dmg" length="9140387" type="application/octet-stream" sparkle:edSignature="Z0gYQrp88/INFbX1QCps2CEmELuoShgZa6gEDyFLiljPjxOx834NDTl1m7EtCTHyB1fyok33r2MOhyGb2cL+Cg=="/>
-            <description><![CDATA[
-              Improvements:
-              - Avoid triggering a copy when it's unnecessary
-              - You can now disable Clicknow in the current app directly from the status menu
             ]]></description>
         </item>
     </channel>
