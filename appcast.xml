@@ -3,6 +3,17 @@
     <channel>
         <title>Clicknow</title>
         <item>
+            <title>1.19</title>
+            <pubDate>Sun, 28 Dec 2025 16:53:45 -0800</pubDate>
+            <sparkle:version>1.19</sparkle:version>
+            <sparkle:shortVersionString>1.19</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.19/Clicknow-1.19.dmg" length="9173510" type="application/octet-stream" sparkle:edSignature="41bEwwQ5FUUshCoQaXUF/TVJ93c2gZAVsFWJo20LVP9kph0dwhwm5o2M8qCo2+8GyVMW+L0tVOj/52dKfg1/Bg=="/>
+            <description><![CDATA[
+              Support any custom model with custom API endpoint.
+            ]]></description>
+        </item>
+        <item>
             <title>1.18.3</title>
             <pubDate>Mon, 22 Dec 2025 14:25:05 -0800</pubDate>
             <sparkle:version>1.18.3</sparkle:version>
