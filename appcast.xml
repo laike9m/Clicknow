@@ -3,6 +3,17 @@
     <channel>
         <title>Clicknow</title>
         <item>
+            <title>1.19.1</title>
+            <pubDate>Fri, 02 Jan 2026 00:52:32 -0800</pubDate>
+            <sparkle:version>1.19.1</sparkle:version>
+            <sparkle:shortVersionString>1.19.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.19.1/Clicknow-1.19.1.dmg" length="7935542" type="application/octet-stream" sparkle:edSignature="dG1Q5aeJC4Vc0BdcqH73czqZ8uHaeohnT841luylFBE3kxaGv4ErH6V19A4eufUgYPW3jmb/AwKH/6VVpAo4Dg=="/>
+            <description><![CDATA[
+              You can now click twice to stop reading text aloud.
+            ]]></description>
+        </item>
+        <item>
             <title>1.19</title>
             <pubDate>Sun, 28 Dec 2025 16:53:45 -0800</pubDate>
             <sparkle:version>1.19</sparkle:version>
