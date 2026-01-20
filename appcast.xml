@@ -3,6 +3,17 @@
     <channel>
         <title>Clicknow</title>
         <item>
+            <title>1.19.3</title>
+            <pubDate>Mon, 19 Jan 2026 18:44:38 -0800</pubDate>
+            <sparkle:version>1.19.3</sparkle:version>
+            <sparkle:shortVersionString>1.19.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.19.3/Clicknow-1.19.3.dmg" length="7990236" type="application/octet-stream" sparkle:edSignature="3CkTHmg/Q3UJlnYektUuCjXMAZgHWd48lX4f240nqH1FEweg1WU8RxtjpXIWTJ7n584AxX7YFyNrUoWUdDrxAQ=="/>
+            <description><![CDATA[
+              - Fixed a bug in explanation
+            ]]></description>
+        </item>
+        <item>
             <title>1.19.2</title>
             <pubDate>Sat, 17 Jan 2026 18:33:58 -0800</pubDate>
             <sparkle:version>1.19.2</sparkle:version>
