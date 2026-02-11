@@ -3,6 +3,17 @@
     <channel>
         <title>Clicknow</title>
         <item>
+            <title>1.19.5</title>
+            <pubDate>Tue, 10 Feb 2026 22:00:34 -0800</pubDate>
+            <sparkle:version>1.19.5</sparkle:version>
+            <sparkle:shortVersionString>1.19.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.19.5/Clicknow-1.19.5.dmg" length="7268489" type="application/octet-stream" sparkle:edSignature="Vj0A1nt9K1IdHIL4uZOlWcg+ePfLwqnOq7RVCyZkqBBiodvfsmgIbOidyELxRFoWNygkF+dZLU8PRZLaPbR6CA=="/>
+            <description><![CDATA[
+              - Bug fixes
+            ]]></description>
+        </item>
+        <item>
             <title>1.19.4</title>
             <pubDate>Fri, 30 Jan 2026 21:03:06 -0800</pubDate>
             <sparkle:version>1.19.4</sparkle:version>
@@ -46,17 +57,6 @@
             <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.19.1/Clicknow-1.19.1.dmg" length="7935542" type="application/octet-stream" sparkle:edSignature="dG1Q5aeJC4Vc0BdcqH73czqZ8uHaeohnT841luylFBE3kxaGv4ErH6V19A4eufUgYPW3jmb/AwKH/6VVpAo4Dg=="/>
             <description><![CDATA[
               You can now click twice to stop reading text aloud.
-            ]]></description>
-        </item>
-        <item>
-            <title>1.19</title>
-            <pubDate>Sun, 28 Dec 2025 16:53:45 -0800</pubDate>
-            <sparkle:version>1.19</sparkle:version>
-            <sparkle:shortVersionString>1.19</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.19/Clicknow-1.19.dmg" length="9173510" type="application/octet-stream" sparkle:edSignature="41bEwwQ5FUUshCoQaXUF/TVJ93c2gZAVsFWJo20LVP9kph0dwhwm5o2M8qCo2+8GyVMW+L0tVOj/52dKfg1/Bg=="/>
-            <description><![CDATA[
-              Support any custom model with custom API endpoint.
             ]]></description>
         </item>
         <item>
