@@ -3,6 +3,18 @@
     <channel>
         <title>Clicknow</title>
         <item>
+            <title>1.19.6</title>
+            <pubDate>Tue, 24 Feb 2026 00:48:11 -0800</pubDate>
+            <sparkle:version>1.19.6</sparkle:version>
+            <sparkle:shortVersionString>1.19.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.19.6/Clicknow-1.19.6.dmg" length="7271873" type="application/octet-stream" sparkle:edSignature="FvTlCfTkSrwjOjjUXE54hxvXi50ky/3bVuHsgDSu2+etjZbFVjhe/GmvPA0v1VV+zbLYXaNxtifICrfXBe6xCA=="/>
+            <description><![CDATA[
+              - Improved the reliability of text replacement when fixing typo
+              - Now you can press "Esc" to hide the popup, while keeping the text highlight. This is useful when taking a screenshot.
+            ]]></description>
+        </item>
+        <item>
             <title>1.19.5</title>
             <pubDate>Tue, 10 Feb 2026 22:00:34 -0800</pubDate>
             <sparkle:version>1.19.5</sparkle:version>
@@ -46,17 +58,6 @@
             <description><![CDATA[
               - Recent history is now preserved (status bar menu > "History")
               - Fixed a bug in explanation output
-            ]]></description>
-        </item>
-        <item>
-            <title>1.19.1</title>
-            <pubDate>Fri, 02 Jan 2026 00:52:32 -0800</pubDate>
-            <sparkle:version>1.19.1</sparkle:version>
-            <sparkle:shortVersionString>1.19.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.19.1/Clicknow-1.19.1.dmg" length="7935542" type="application/octet-stream" sparkle:edSignature="dG1Q5aeJC4Vc0BdcqH73czqZ8uHaeohnT841luylFBE3kxaGv4ErH6V19A4eufUgYPW3jmb/AwKH/6VVpAo4Dg=="/>
-            <description><![CDATA[
-              You can now click twice to stop reading text aloud.
             ]]></description>
         </item>
         <item>
