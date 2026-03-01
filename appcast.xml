@@ -3,6 +3,17 @@
     <channel>
         <title>Clicknow</title>
         <item>
+            <title>1.19.7</title>
+            <pubDate>Sat, 28 Feb 2026 22:40:42 -0800</pubDate>
+            <sparkle:version>1.19.7</sparkle:version>
+            <sparkle:shortVersionString>1.19.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.19.7/Clicknow-1.19.7.dmg" length="7272231" type="application/octet-stream" sparkle:edSignature="d1lvmJgaK5h8CaFoeddIsQAVhDM1TSk4krXzHcvilqH3M2Lk0cHHiekUdnYY4Lw1x0pHWZyx7hrhnbAXgO3RBA=="/>
+            <description><![CDATA[
+              Bug fix: text selection not working in certain apps.
+            ]]></description>
+        </item>
+        <item>
             <title>1.19.6</title>
             <pubDate>Tue, 24 Feb 2026 00:48:11 -0800</pubDate>
             <sparkle:version>1.19.6</sparkle:version>
@@ -46,18 +57,6 @@
             <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.19.3/Clicknow-1.19.3.dmg" length="7990236" type="application/octet-stream" sparkle:edSignature="3CkTHmg/Q3UJlnYektUuCjXMAZgHWd48lX4f240nqH1FEweg1WU8RxtjpXIWTJ7n584AxX7YFyNrUoWUdDrxAQ=="/>
             <description><![CDATA[
               - Fixed a bug in explanation
-            ]]></description>
-        </item>
-        <item>
-            <title>1.19.2</title>
-            <pubDate>Sat, 17 Jan 2026 18:33:58 -0800</pubDate>
-            <sparkle:version>1.19.2</sparkle:version>
-            <sparkle:shortVersionString>1.19.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.19.2/Clicknow-1.19.2.dmg" length="7973934" type="application/octet-stream" sparkle:edSignature="Nuq6jKOLt1Lgm42ZdaaFvo6DgohRAmQdCGR3yzwuP1w+5E9tf19J4RT0BVYWldGgOOGdI2LSrXMAvBjwfYuvAw=="/>
-            <description><![CDATA[
-              - Recent history is now preserved (status bar menu > "History")
-              - Fixed a bug in explanation output
             ]]></description>
         </item>
         <item>
