@@ -3,6 +3,17 @@
     <channel>
         <title>Clicknow</title>
         <item>
+            <title>1.19.9</title>
+            <pubDate>Tue, 17 Mar 2026 23:45:24 -0700</pubDate>
+            <sparkle:version>1.19.9</sparkle:version>
+            <sparkle:shortVersionString>1.19.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.19.9/Clicknow-1.19.9.dmg" length="7272514" type="application/octet-stream" sparkle:edSignature="77xqlrMVAhucpdJpuqWKbkOkUVVpoiY7TcItcK94YfWlWbNnT0xoLR/ocrnR/wa6qkLuwzxGBCHTay9yvWH7DA=="/>
+            <description><![CDATA[
+              Bug fix: text selection sometimes doesn't work in Google docs.
+            ]]></description>
+        </item>
+        <item>
             <title>1.19.8</title>
             <pubDate>Fri, 13 Mar 2026 15:30:49 +0900</pubDate>
             <sparkle:version>1.19.8</sparkle:version>
@@ -45,18 +56,6 @@
             <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.19.5/Clicknow-1.19.5.dmg" length="7268489" type="application/octet-stream" sparkle:edSignature="Vj0A1nt9K1IdHIL4uZOlWcg+ePfLwqnOq7RVCyZkqBBiodvfsmgIbOidyELxRFoWNygkF+dZLU8PRZLaPbR6CA=="/>
             <description><![CDATA[
               - Bug fixes
-            ]]></description>
-        </item>
-        <item>
-            <title>1.19.4</title>
-            <pubDate>Fri, 30 Jan 2026 21:03:06 -0800</pubDate>
-            <sparkle:version>1.19.4</sparkle:version>
-            <sparkle:shortVersionString>1.19.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.19.4/Clicknow-1.19.4.dmg" length="7992363" type="application/octet-stream" sparkle:edSignature="oXOf/+/Ka11L21q4U9huLIschtFpGqVKA5R8HKLZxVde2Alj/yd35RO62aP5e+pJo6gVlfvFGNo09L10vaqaBg=="/>
-            <description><![CDATA[
-              - Recent history now preserves responses from Perplexity
-              - Small performance improvement
             ]]></description>
         </item>
         <item>
