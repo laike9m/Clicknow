@@ -3,14 +3,26 @@
     <channel>
         <title>Clicknow</title>
         <item>
-            <title>1.19.10</title>
-            <pubDate>Tue, 24 Mar 2026 22:44:25 -0700</pubDate>
-            <sparkle:version>1.19.10</sparkle:version>
+            <title>1.19.11</title>
+            <pubDate>Thu, 26 Mar 2026 22:44:25 -0700</pubDate>
+            <sparkle:version>1.19.11</sparkle:version>
             <sparkle:shortVersionString>1.19.11</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.19.11/Clicknow-1.19.11.dmg" length="8821178" type="application/octet-stream" sparkle:edSignature="Jy5gmzB8dlktlEOPROTpUB6b45WsiMVen9Z+zv05NC4yeGQfFt9nmgfUt2tPNdKuPRloS5Jz1tswS/sY8SXNCw=="/>
             <description><![CDATA[
               Small bug fix
+            ]]></description>
+        </item>
+        <item>
+            <title>1.19.10</title>
+            <pubDate>Tue, 24 Mar 2026 22:44:25 -0700</pubDate>
+            <sparkle:version>1.19.10</sparkle:version>
+            <sparkle:shortVersionString>1.19.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.19.10/Clicknow-1.19.10.dmg" length="7292944" type="application/octet-stream" sparkle:edSignature="Q+KoTifb6WNFE+txmCImjscJcNsNg1PJR+eq1VUMz0/FbKpi2DUwEbyIqZpYtQapg+KUsIy0M4k4ClTFoNdTCg=="/>
+            <description><![CDATA[
+              - Bug fix: weird numbers in response;
+              - Lowered app's memory usage in some scenarios
             ]]></description>
         </item>
         <item>
