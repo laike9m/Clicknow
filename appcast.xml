@@ -3,6 +3,17 @@
     <channel>
         <title>Clicknow</title>
         <item>
+            <title>1.19.12</title>
+            <pubDate>Wed, 15 Apr 2026 23:34:39 -0700</pubDate>
+            <sparkle:version>1.19.12</sparkle:version>
+            <sparkle:shortVersionString>1.19.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.19.12/Clicknow-1.19.12.dmg" length="8834310" type="application/octet-stream" sparkle:edSignature="tNUBN3z+0OMZUizhBZmn06BMyzYOF72qIGA56np5PtPcjs3Ca9WgawoBZPWO8Hy3/Pth6+HzD1RsSpWt80aGBw=="/>
+            <description><![CDATA[
+              Lowered app's resource usage
+            ]]></description>
+        </item>
+        <item>
             <title>1.19.11</title>
             <pubDate>Thu, 26 Mar 2026 22:44:25 -0700</pubDate>
             <sparkle:version>1.19.11</sparkle:version>
@@ -45,29 +56,6 @@
             <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.19.8/Clicknow-1.19.8.dmg" length="7271899" type="application/octet-stream" sparkle:edSignature="3hmWgHznFXs7AHuyg5XWTlKLHd9ii6WPmuOY3aPBY3JcoRjgHJOjy+MgLiJL9uU1o2hirAjnQEUyTAl37oeeAw=="/>
             <description><![CDATA[
               Bug fix: response truncated.
-            ]]></description>
-        </item>
-        <item>
-            <title>1.19.7</title>
-            <pubDate>Sat, 28 Feb 2026 22:40:42 -0800</pubDate>
-            <sparkle:version>1.19.7</sparkle:version>
-            <sparkle:shortVersionString>1.19.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.19.7/Clicknow-1.19.7.dmg" length="7272231" type="application/octet-stream" sparkle:edSignature="d1lvmJgaK5h8CaFoeddIsQAVhDM1TSk4krXzHcvilqH3M2Lk0cHHiekUdnYY4Lw1x0pHWZyx7hrhnbAXgO3RBA=="/>
-            <description><![CDATA[
-              Bug fix: text selection not working in certain apps.
-            ]]></description>
-        </item>
-        <item>
-            <title>1.19.6</title>
-            <pubDate>Tue, 24 Feb 2026 00:48:11 -0800</pubDate>
-            <sparkle:version>1.19.6</sparkle:version>
-            <sparkle:shortVersionString>1.19.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.19.6/Clicknow-1.19.6.dmg" length="7271873" type="application/octet-stream" sparkle:edSignature="FvTlCfTkSrwjOjjUXE54hxvXi50ky/3bVuHsgDSu2+etjZbFVjhe/GmvPA0v1VV+zbLYXaNxtifICrfXBe6xCA=="/>
-            <description><![CDATA[
-              - Improved the reliability of text replacement when fixing typo
-              - Now you can press "Esc" to hide the popup, while keeping the text highlight. This is useful when taking a screenshot.
             ]]></description>
         </item>
         <item>
