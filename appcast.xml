@@ -6,11 +6,11 @@
             <title>1.19.12</title>
             <pubDate>Wed, 15 Apr 2026 23:34:39 -0700</pubDate>
             <sparkle:version>1.19.12</sparkle:version>
-            <sparkle:shortVersionString>1.19.12</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.19.13</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.19.12/Clicknow-1.19.12.dmg" length="8834310" type="application/octet-stream" sparkle:edSignature="tNUBN3z+0OMZUizhBZmn06BMyzYOF72qIGA56np5PtPcjs3Ca9WgawoBZPWO8Hy3/Pth6+HzD1RsSpWt80aGBw=="/>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.19.13/Clicknow-1.19.13.dmg" length="8834733" type="application/octet-stream" sparkle:edSignature="/PaeNATgOLzYR5EQ/jnrtpbR6nPwZQ2iJWqx7JDIQtuEt8Cz7IKuoP85m5DF1NWEbGptBWBcmELQCNlVrkJCDw=="/>
             <description><![CDATA[
-              Lowered app's resource usage
+              Add Polish support
             ]]></description>
         </item>
         <item>
