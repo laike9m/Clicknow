@@ -3,6 +3,19 @@
     <channel>
         <title>Clicknow</title>
         <item>
+            <title>1.20</title>
+            <pubDate>Thu, 23 Jul 2026 21:10:33 -0700</pubDate>
+            <sparkle:version>1.20</sparkle:version>
+            <sparkle:shortVersionString>1.20</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.20/Clicknow-1.20.dmg" length="8835994" type="application/octet-stream" sparkle:edSignature="qKpe1CA390CoJTx5YWUg4hw+6jZYkmXjVJFOaIkWy7S0+u77LUpuXDvOeRXoTRUzuOKB6HwA8Z80u1UJx9QJAA=="/>
+            <description><![CDATA[
+              - New feature: pressing "Enter" will replace the highlighted text with the Clicknow's output.
+              - Remove occasional preamble text in translation output.
+              - Bug fixes.
+            ]]></description>
+        </item>
+        <item>
             <title>1.19.12</title>
             <pubDate>Wed, 15 Apr 2026 23:34:39 -0700</pubDate>
             <sparkle:version>1.19.12</sparkle:version>
@@ -45,17 +58,6 @@
             <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.19.9/Clicknow-1.19.9.dmg" length="7272514" type="application/octet-stream" sparkle:edSignature="77xqlrMVAhucpdJpuqWKbkOkUVVpoiY7TcItcK94YfWlWbNnT0xoLR/ocrnR/wa6qkLuwzxGBCHTay9yvWH7DA=="/>
             <description><![CDATA[
               Bug fix: text selection sometimes doesn't work in Google docs.
-            ]]></description>
-        </item>
-        <item>
-            <title>1.19.8</title>
-            <pubDate>Fri, 13 Mar 2026 15:30:49 +0900</pubDate>
-            <sparkle:version>1.19.8</sparkle:version>
-            <sparkle:shortVersionString>1.19.8</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.19.8/Clicknow-1.19.8.dmg" length="7271899" type="application/octet-stream" sparkle:edSignature="3hmWgHznFXs7AHuyg5XWTlKLHd9ii6WPmuOY3aPBY3JcoRjgHJOjy+MgLiJL9uU1o2hirAjnQEUyTAl37oeeAw=="/>
-            <description><![CDATA[
-              Bug fix: response truncated.
             ]]></description>
         </item>
         <item>
