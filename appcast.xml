@@ -3,6 +3,17 @@
     <channel>
         <title>Clicknow</title>
         <item>
+            <title>1.20.1</title>
+            <pubDate>Sat, 05 Sep 2026 23:25:54 -0700</pubDate>
+            <sparkle:version>1.20.1</sparkle:version>
+            <sparkle:shortVersionString>1.20.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.20.1/Clicknow-1.20.1.dmg" length="8836401" type="application/octet-stream" sparkle:edSignature="12G0Wh9kTOw5i7l2yva5spWgHFukg84/Znu2FyddoQ1/ru2Eb9xmfEn7AhvfpNIR+dwE3kbPsxSKxKHKWEywDQ=="/>
+            <description><![CDATA[
+              Improved the prompt for translation
+            ]]></description>
+        </item>
+        <item>
             <title>1.20</title>
             <pubDate>Thu, 23 Jul 2026 21:10:33 -0700</pubDate>
             <sparkle:version>1.20</sparkle:version>
@@ -47,17 +58,6 @@
             <description><![CDATA[
               - Bug fix: weird numbers in response;
               - Lowered app's memory usage in some scenarios
-            ]]></description>
-        </item>
-        <item>
-            <title>1.19.9</title>
-            <pubDate>Tue, 17 Mar 2026 23:45:24 -0700</pubDate>
-            <sparkle:version>1.19.9</sparkle:version>
-            <sparkle:shortVersionString>1.19.9</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.19.9/Clicknow-1.19.9.dmg" length="7272514" type="application/octet-stream" sparkle:edSignature="77xqlrMVAhucpdJpuqWKbkOkUVVpoiY7TcItcK94YfWlWbNnT0xoLR/ocrnR/wa6qkLuwzxGBCHTay9yvWH7DA=="/>
-            <description><![CDATA[
-              Bug fix: text selection sometimes doesn't work in Google docs.
             ]]></description>
         </item>
         <item>
