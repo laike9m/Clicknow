@@ -3,6 +3,17 @@
     <channel>
         <title>Clicknow</title>
         <item>
+            <title>1.21</title>
+            <pubDate>Sat, 12 Sep 2026 10:42:17 -0700</pubDate>
+            <sparkle:version>1.21</sparkle:version>
+            <sparkle:shortVersionString>1.21</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.21/Clicknow-1.21.dmg" length="8837751" type="application/octet-stream" sparkle:edSignature="DtSnwuUblw+KGcJ++Kh3IdKEItBJfwq0vfq4BQ8/n+N4mD7zeu2C/GHy0fb8PddeyaNGxkzpQyiE4LoQjCh1AA=="/>
+            <description><![CDATA[
+              Fixed a performance bug that caused frame drop in macOS.
+            ]]></description>
+        </item>
+        <item>
             <title>1.20.1</title>
             <pubDate>Sat, 05 Sep 2026 23:25:54 -0700</pubDate>
             <sparkle:version>1.20.1</sparkle:version>
@@ -46,18 +57,6 @@
             <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.19.11/Clicknow-1.19.11.dmg" length="8821178" type="application/octet-stream" sparkle:edSignature="Jy5gmzB8dlktlEOPROTpUB6b45WsiMVen9Z+zv05NC4yeGQfFt9nmgfUt2tPNdKuPRloS5Jz1tswS/sY8SXNCw=="/>
             <description><![CDATA[
               Small bug fix
-            ]]></description>
-        </item>
-        <item>
-            <title>1.19.10</title>
-            <pubDate>Tue, 24 Mar 2026 22:44:25 -0700</pubDate>
-            <sparkle:version>1.19.10</sparkle:version>
-            <sparkle:shortVersionString>1.19.10</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.19.10/Clicknow-1.19.10.dmg" length="7292944" type="application/octet-stream" sparkle:edSignature="Q+KoTifb6WNFE+txmCImjscJcNsNg1PJR+eq1VUMz0/FbKpi2DUwEbyIqZpYtQapg+KUsIy0M4k4ClTFoNdTCg=="/>
-            <description><![CDATA[
-              - Bug fix: weird numbers in response;
-              - Lowered app's memory usage in some scenarios
             ]]></description>
         </item>
         <item>
