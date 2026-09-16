@@ -4,6 +4,18 @@
         <title>Clicknow</title>
         <item>
             <title>1.21</title>
+            <pubDate>Tue, 15 Sep 2026 23:05:11 -0700</pubDate>
+            <sparkle:version>1.21.1</sparkle:version>
+            <sparkle:shortVersionString>1.21.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.21.1/Clicknow-1.21.1.dmg" length="8838083" type="application/octet-stream" sparkle:edSignature="/ybVihh/ULBXTMLQncdwWqqAQBuBGShLUShZk6y93tOL3O9sC4er/ZZFtlC6Ha95WC45EvyJVDuYafDawFphCQ=="/>
+            <description><![CDATA[
+              - Fixed missing explanation in macOS 15
+              - Version update will alert users
+            ]]></description>
+        </item>
+        <item>
+            <title>1.21</title>
             <pubDate>Sat, 12 Sep 2026 10:42:17 -0700</pubDate>
             <sparkle:version>1.21</sparkle:version>
             <sparkle:shortVersionString>1.21</sparkle:shortVersionString>
@@ -46,17 +58,6 @@
             <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.19.13/Clicknow-1.19.13.dmg" length="8834733" type="application/octet-stream" sparkle:edSignature="/PaeNATgOLzYR5EQ/jnrtpbR6nPwZQ2iJWqx7JDIQtuEt8Cz7IKuoP85m5DF1NWEbGptBWBcmELQCNlVrkJCDw=="/>
             <description><![CDATA[
               Add Polish support
-            ]]></description>
-        </item>
-        <item>
-            <title>1.19.11</title>
-            <pubDate>Thu, 26 Mar 2026 22:44:25 -0700</pubDate>
-            <sparkle:version>1.19.11</sparkle:version>
-            <sparkle:shortVersionString>1.19.11</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.19.11/Clicknow-1.19.11.dmg" length="8821178" type="application/octet-stream" sparkle:edSignature="Jy5gmzB8dlktlEOPROTpUB6b45WsiMVen9Z+zv05NC4yeGQfFt9nmgfUt2tPNdKuPRloS5Jz1tswS/sY8SXNCw=="/>
-            <description><![CDATA[
-              Small bug fix
             ]]></description>
         </item>
         <item>
