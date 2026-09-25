@@ -3,6 +3,18 @@
     <channel>
         <title>Clicknow</title>
         <item>
+            <title>1.21.2</title>
+            <pubDate>Thu, 24 Sep 2026 22:38:59 -0700</pubDate>
+            <sparkle:version>1.21.2</sparkle:version>
+            <sparkle:shortVersionString>1.21.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.21.2/Clicknow-1.21.2.dmg" length="8858897" type="application/octet-stream" sparkle:edSignature="r9Osf/pM6nZaAY11Zq2KkH2ChmumkFY0oKTcVN8N60e+WPoUrI2ZeV5SG9DJtYzseLFej+tvOzvBqLu2kOXUCg=="/>
+            <description><![CDATA[
+              - Fixed date selection when adding a new calendar event
+              - Reworked the calendar UI to make it look better
+            ]]></description>
+        </item>
+        <item>
             <title>1.21</title>
             <pubDate>Tue, 15 Sep 2026 23:05:11 -0700</pubDate>
             <sparkle:version>1.21.1</sparkle:version>
@@ -47,17 +59,6 @@
               - New feature: pressing "Enter" will replace the highlighted text with the Clicknow's output.
               - Remove occasional preamble text in translation output.
               - Bug fixes.
-            ]]></description>
-        </item>
-        <item>
-            <title>1.19.12</title>
-            <pubDate>Wed, 15 Apr 2026 23:34:39 -0700</pubDate>
-            <sparkle:version>1.19.12</sparkle:version>
-            <sparkle:shortVersionString>1.19.13</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.19.13/Clicknow-1.19.13.dmg" length="8834733" type="application/octet-stream" sparkle:edSignature="/PaeNATgOLzYR5EQ/jnrtpbR6nPwZQ2iJWqx7JDIQtuEt8Cz7IKuoP85m5DF1NWEbGptBWBcmELQCNlVrkJCDw=="/>
-            <description><![CDATA[
-              Add Polish support
             ]]></description>
         </item>
         <item>
