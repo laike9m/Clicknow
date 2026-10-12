@@ -3,6 +3,17 @@
     <channel>
         <title>Clicknow</title>
         <item>
+            <title>1.22</title>
+            <pubDate>Sat, 10 Oct 2026 15:21:16 -0700</pubDate>
+            <sparkle:version>1.22</sparkle:version>
+            <sparkle:shortVersionString>1.22</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.22/Clicknow-1.22.dmg" length="8867544" type="application/octet-stream" sparkle:edSignature="a8axUHHKUQo3fYQBdRHSQ5sjOUMZf6WpmVrr+eXpRghGjB0JJImmEJ79n8VRgPDTaB8Ul34ICqDvDXN2i8m+AQ=="/>
+            <description><![CDATA[
+              - Fixed broken AI search and improved its response speed.
+            ]]></description>
+        </item>
+        <item>
             <title>1.21.3</title>
             <pubDate>Tue, 06 Oct 2026 13:45:28 -0700</pubDate>
             <sparkle:version>1.21.3</sparkle:version>
@@ -46,17 +57,6 @@
             <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.21/Clicknow-1.21.dmg" length="8837751" type="application/octet-stream" sparkle:edSignature="DtSnwuUblw+KGcJ++Kh3IdKEItBJfwq0vfq4BQ8/n+N4mD7zeu2C/GHy0fb8PddeyaNGxkzpQyiE4LoQjCh1AA=="/>
             <description><![CDATA[
               Fixed a performance bug that caused frame drop in macOS.
-            ]]></description>
-        </item>
-        <item>
-            <title>1.20.1</title>
-            <pubDate>Sat, 05 Sep 2026 23:25:54 -0700</pubDate>
-            <sparkle:version>1.20.1</sparkle:version>
-            <sparkle:shortVersionString>1.20.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.20.1/Clicknow-1.20.1.dmg" length="8836401" type="application/octet-stream" sparkle:edSignature="12G0Wh9kTOw5i7l2yva5spWgHFukg84/Znu2FyddoQ1/ru2Eb9xmfEn7AhvfpNIR+dwE3kbPsxSKxKHKWEywDQ=="/>
-            <description><![CDATA[
-              Improved the prompt for translation
             ]]></description>
         </item>
         <item>
