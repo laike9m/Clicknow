@@ -3,6 +3,17 @@
     <channel>
         <title>Clicknow</title>
         <item>
+            <title>1.22.1</title>
+            <pubDate>Fri, 16 Oct 2026 23:46:53 -0700</pubDate>
+            <sparkle:version>1.22.1</sparkle:version>
+            <sparkle:shortVersionString>1.22.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.22.1/Clicknow-1.22.1.dmg" length="8868916" type="application/octet-stream" sparkle:edSignature="oQITRsJAxtc2oDvbWQi9hy5HwMbqVdj9aUCgAspEJot6A6EQw6oMg8mDyEZ2ZnElle1j4OPP6wfm129kAPcMCg=="/>
+            <description><![CDATA[
+              - Fixed a bug in AI search
+            ]]></description>
+        </item>
+        <item>
             <title>1.22</title>
             <pubDate>Sat, 10 Oct 2026 15:21:16 -0700</pubDate>
             <sparkle:version>1.22</sparkle:version>
@@ -46,17 +57,6 @@
             <description><![CDATA[
               - Fixed missing explanation in macOS 15
               - Version update will alert users
-            ]]></description>
-        </item>
-        <item>
-            <title>1.21</title>
-            <pubDate>Sat, 12 Sep 2026 10:42:17 -0700</pubDate>
-            <sparkle:version>1.21</sparkle:version>
-            <sparkle:shortVersionString>1.21</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.21/Clicknow-1.21.dmg" length="8837751" type="application/octet-stream" sparkle:edSignature="DtSnwuUblw+KGcJ++Kh3IdKEItBJfwq0vfq4BQ8/n+N4mD7zeu2C/GHy0fb8PddeyaNGxkzpQyiE4LoQjCh1AA=="/>
-            <description><![CDATA[
-              Fixed a performance bug that caused frame drop in macOS.
             ]]></description>
         </item>
         <item>
