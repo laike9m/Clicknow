@@ -3,6 +3,17 @@
     <channel>
         <title>Clicknow</title>
         <item>
+            <title>1.22.2</title>
+            <pubDate>Tue, 03 Nov 2026 21:53:57 -0800</pubDate>
+            <sparkle:version>1.22.2</sparkle:version>
+            <sparkle:shortVersionString>1.22.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.22.2/Clicknow-1.22.2.dmg" length="8869027" type="application/octet-stream" sparkle:edSignature="HIBYO/s6cmacQHl8rar443WAWUpIk7WGuDVht4saSqoj+wCUWeYlL381OxmE2GfwA8rhopdN+o1kWutu0rCGBQ=="/>
+            <description><![CDATA[
+              - Fixed a bug in AI search
+            ]]></description>
+        </item>
+        <item>
             <title>1.22.1</title>
             <pubDate>Fri, 16 Oct 2026 23:46:53 -0700</pubDate>
             <sparkle:version>1.22.1</sparkle:version>
@@ -45,18 +56,6 @@
             <description><![CDATA[
               - Fixed date selection when adding a new calendar event
               - Reworked the calendar UI to make it look better
-            ]]></description>
-        </item>
-        <item>
-            <title>1.21</title>
-            <pubDate>Tue, 15 Sep 2026 23:05:11 -0700</pubDate>
-            <sparkle:version>1.21.1</sparkle:version>
-            <sparkle:shortVersionString>1.21.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.21.1/Clicknow-1.21.1.dmg" length="8838083" type="application/octet-stream" sparkle:edSignature="/ybVihh/ULBXTMLQncdwWqqAQBuBGShLUShZk6y93tOL3O9sC4er/ZZFtlC6Ha95WC45EvyJVDuYafDawFphCQ=="/>
-            <description><![CDATA[
-              - Fixed missing explanation in macOS 15
-              - Version update will alert users
             ]]></description>
         </item>
         <item>
