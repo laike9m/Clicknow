@@ -3,6 +3,17 @@
     <channel>
         <title>Clicknow</title>
         <item>
+            <title>1.22.3</title>
+            <pubDate>Sat, 21 Nov 2026 12:12:17 -0800</pubDate>
+            <sparkle:version>1.22.3</sparkle:version>
+            <sparkle:shortVersionString>1.22.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.22.3/Clicknow-1.22.3.dmg" length="8873431" type="application/octet-stream" sparkle:edSignature="YRQtnTMp6w9nlUpygdnt+fq//l5Lw5QCuulIRoVCJjfyGuKc4nHUxNn9wytUFQPO+ixJAqMwZ7FGQVgiQP/sBA=="/>
+            <description><![CDATA[
+              - Fixed Settings window tab sizing and selection on newer macOS.
+            ]]></description>
+        </item>
+        <item>
             <title>1.22.2</title>
             <pubDate>Tue, 03 Nov 2026 21:53:57 -0800</pubDate>
             <sparkle:version>1.22.2</sparkle:version>
@@ -44,18 +55,6 @@
             <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.21.3/Clicknow-1.21.3.dmg" length="8859346" type="application/octet-stream" sparkle:edSignature="k5I7ZsKN+NWSMsbFgSfXgtG0FOtCf3/abQt2Zp5Fu79g87jMRuDYU4aI48i2lJ5RT7uSJFRt1xTACSa8gr+ACA=="/>
             <description><![CDATA[
               - Fixed a bug that caused Clicknow to not function in Microsoft Word.
-            ]]></description>
-        </item>
-        <item>
-            <title>1.21.2</title>
-            <pubDate>Thu, 24 Sep 2026 22:38:59 -0700</pubDate>
-            <sparkle:version>1.21.2</sparkle:version>
-            <sparkle:shortVersionString>1.21.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/laike9m/Clicknow/releases/download/1.21.2/Clicknow-1.21.2.dmg" length="8858897" type="application/octet-stream" sparkle:edSignature="r9Osf/pM6nZaAY11Zq2KkH2ChmumkFY0oKTcVN8N60e+WPoUrI2ZeV5SG9DJtYzseLFej+tvOzvBqLu2kOXUCg=="/>
-            <description><![CDATA[
-              - Fixed date selection when adding a new calendar event
-              - Reworked the calendar UI to make it look better
             ]]></description>
         </item>
         <item>
